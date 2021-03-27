@@ -1,4 +1,3 @@
-
 // Prompt the user for the pet's name
 let name = prompt("What's your pet's name?");
 
